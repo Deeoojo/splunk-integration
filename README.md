@@ -105,4 +105,4 @@ To enhance parsing and investigation, I created a custom field extraction:
 
 ---
 
-🖼️ See the [Wiki]((https://github.com/Deeoojo/splunk-integration/wiki)) for screenshots
+🖼️ See the [Wiki](https://github.com/Deeoojo/splunk-integration/wiki) for screenshots
